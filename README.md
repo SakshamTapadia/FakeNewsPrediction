@@ -1,5 +1,8 @@
 # Fake News Detection using Logistic Regression
 
+## Dataset 
+link: https://www.kaggle.com/competitions/fake-news/data
+
 ## Overview
 This project implements a **Logistic Regression** model to classify news articles as **fake or real** using **Natural Language Processing (NLP)** techniques.
 
